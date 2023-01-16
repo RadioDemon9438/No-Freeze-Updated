@@ -1,0 +1,212 @@
+[
+  {
+    "abstract": "mutagen_flavor",
+    "type": "COMESTIBLE",
+    "copy-from": "mutagen_flavor",
+    "name": { "str": "abstract mutagen flavor" },
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen",
+    "copy-from": "mutagen",
+    "type": "COMESTIBLE",
+    "name": "mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_jabberblood",
+    "copy-from": "mutagen_jabberblood",
+    "type": "COMESTIBLE",
+    "name": "congealed blood",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_alpha",
+    "copy-from": "mutagen_alpha",
+    "type": "COMESTIBLE",
+    "name": { "str": "alpha mutagen", "str_pl": "alpha mutagen" },
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_beast",
+    "copy-from": "mutagen_beast",
+    "type": "COMESTIBLE",
+    "name": { "str": "beast mutagen" },
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_bird",
+    "copy-from": "mutagen_bird",
+    "type": "COMESTIBLE",
+    "name": { "str": "bird mutagen" },
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_cattle",
+    "copy-from": "mutagen_cattle",
+    "type": "COMESTIBLE",
+    "name": "cattle mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_cephalopod",
+    "copy-from": "mutagen_cephalopod",
+    "type": "COMESTIBLE",
+    "name": "cephalopod mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_chimera",
+    "copy-from": "mutagen_chimera",
+    "type": "COMESTIBLE",
+    "name": "chimera mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_elfa",
+    "copy-from": "mutagen_elfa",
+    "type": "COMESTIBLE",
+    "name": "elf-a mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_feline",
+    "copy-from": "mutagen_feline",
+    "type": "COMESTIBLE",
+    "name": "feline mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_fish",
+    "copy-from": "mutagen_fish",
+    "type": "COMESTIBLE",
+    "name": "fish mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_insect",
+    "copy-from": "mutagen_insect",
+    "type": "COMESTIBLE",
+    "name": "insect mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_lizard",
+    "copy-from": "mutagen_lizard",
+    "type": "COMESTIBLE",
+    "name": "lizard mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_lupine",
+    "copy-from": "mutagen_lupine",
+    "type": "COMESTIBLE",
+    "name": "lupine mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_medical",
+    "copy-from": "mutagen_medical",
+    "type": "COMESTIBLE",
+    "name": "medical mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_plant",
+    "copy-from": "mutagen_plant",
+    "type": "COMESTIBLE",
+    "name": "plant mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_raptor",
+    "copy-from": "mutagen_raptor",
+    "type": "COMESTIBLE",
+    "name": "raptor mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_rat",
+    "copy-from": "mutagen_rat",
+    "type": "COMESTIBLE",
+    "name": "rat mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_slime",
+    "copy-from": "mutagen_slime",
+    "type": "COMESTIBLE",
+    "name": "slime mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_spider",
+    "copy-from": "mutagen_spider",
+    "type": "COMESTIBLE",
+    "name": "spider mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_troglobite",
+    "copy-from": "mutagen_troglobite",
+    "type": "COMESTIBLE",
+    "name": "troglobite mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_ursine",
+    "copy-from": "mutagen_ursine",
+    "type": "COMESTIBLE",
+    "name": "ursine mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "mutagen_mouse",
+    "copy-from": "mutagen_mouse",
+    "type": "COMESTIBLE",
+    "name": "mouse mutagen",
+    "freezing_point": -1000
+  },
+  {
+    "id": "purifier",
+    "copy-from": "purifier",
+    "type": "COMESTIBLE",
+    "name": "purifier",
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "fetus",
+    "copy-from": "fetus",
+    "name": { "str": "misshapen fetus", "str_pl": "misshapen fetuses" },
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "arm",
+    "copy-from": "arm",
+    "name": { "str": "mutated arm" },
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "leg",
+    "copy-from": "leg",
+    "name": "mutated leg",
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "taint_tornado",
+    "copy-from": "taint_tornado",
+    "name": "tainted tornado",
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_sewerbrew",
+    "copy-from": "drink_sewerbrew",
+    "name": "sewer brew",
+    "freezing_point": -1000
+  }
+]
