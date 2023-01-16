@@ -253,13 +253,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "canola",
-    "copy-from": "canola",
-    "name": "canola",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "raw_beans",
     "copy-from": "raw_beans",
     "name": { "str": "raw beans", "str_pl": "raw beans" },

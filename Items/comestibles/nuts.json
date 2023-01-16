@@ -15,8 +15,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "pistachio_unshelled",
-    "copy-from": "pistachio_unshelled",
+    "id": "pistachio_shelled",
+    "copy-from": "pistachio_shelled",
     "name": { "str": "shelled pistachios", "str_pl": "shelled pistachios" },
     "freezing_point": -1000
   },
@@ -29,8 +29,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "almond_unshelled",
-    "copy-from": "almond_unshelled",
+    "id": "almond_shelled",
+    "copy-from": "almond_shelled",
     "name": { "str": "shelled almonds", "str_pl": "shelled almonds" },
     "freezing_point": -1000
   },
@@ -57,8 +57,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "pecan_unshelled",
-    "copy-from": "pecan_unshelled",
+    "id": "pecan_shelled",
+    "copy-from": "pecan_shelled",
     "name": { "str": "shelled pecans", "str_pl": "shelled pecans" },
     "freezing_point": -1000
   },
@@ -71,8 +71,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "peanut_unshelled",
-    "copy-from": "peanut_unshelled",
+    "id": "peanut_shelled",
+    "copy-from": "peanut_shelled",
     "name": { "str": "shelled peanuts", "str_pl": "shelled peanuts" },
     "freezing_point": -1000
   },
@@ -85,8 +85,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "walnut_unshelled",
-    "copy-from": "walnut_unshelled",
+    "id": "walnut_shelled",
+    "copy-from": "walnut_shelled",
     "name": { "str": "shelled walnuts", "str_pl": "shelled walnuts" },
     "freezing_point": -1000
   },
@@ -99,8 +99,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "chestnut_unshelled",
-    "copy-from": "chestnut_unshelled",
+    "id": "chestnut_shelled",
+    "copy-from": "chestnut_shelled",
     "name": { "str": "shelled chestnuts", "str_pl": "shelled chestnuts" },
     "freezing_point": -1000
   },
@@ -113,8 +113,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "hazelnut_unshelled",
-    "copy-from": "hazelnut_unshelled",
+    "id": "hazelnut_shelled",
+    "copy-from": "hazelnut_shelled",
     "name": { "str": "shelled hazelnuts", "str_pl": "shelled hazelnuts" },
     "freezing_point": -1000
   },
@@ -141,8 +141,8 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "hickory_nut_unshelled",
-    "copy-from": "hickory_nut_unshelled",
+    "id": "hickory_nut_shelled",
+    "copy-from": "hickory_nut_shelled",
     "name": { "str": "shelled hickory nuts", "str_pl": "shelled hickory nuts" },
     "freezing_point": -1000
   },
@@ -157,7 +157,14 @@
     "type": "COMESTIBLE",
     "id": "hickory_nut_ambrosia",
     "copy-from": "hickory_nut_ambrosia",
-    "name": "hickory nut ambrosia",
+    "name": { "str": "hickory nut ambrosia" },
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "spread_peanutbutter",
+    "copy-from": "spread_peanutbutter",
+    "name": { "str": "peanutbutter spread" },
     "freezing_point": -1000
   },
   {
@@ -179,6 +186,20 @@
     "id": "acorns_cooked",
     "copy-from": "acorns_cooked",
     "name": { "str": "cooked acorn meal", "str_pl": "cooked acorn meal" },
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "acorns_blanched",
+    "copy-from": "acorns_blanched",
+    "name": { "str_sp": "blanched acorns" },
+    "freezing_point": -1000
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "acorns_blanching",
+    "copy-from": "acorns_blanching",
+    "name": { "str_sp": "blanching acorns" },
     "freezing_point": -1000
   }
 ]
