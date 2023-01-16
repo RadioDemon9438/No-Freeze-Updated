@@ -194,19 +194,5 @@
     "copy-from": "leg",
     "name": "mutated leg",
     "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "taint_tornado",
-    "copy-from": "taint_tornado",
-    "name": "tainted tornado",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "drink_sewerbrew",
-    "copy-from": "drink_sewerbrew",
-    "name": "sewer brew",
-    "freezing_point": -1000
   }
 ]
