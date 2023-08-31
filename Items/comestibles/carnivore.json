@@ -379,13 +379,6 @@
     "freezing_point": -1000
   },
   {
-    "type": "GENERIC",
-    "id": "bone_human",
-    "copy-from": "bone_human",
-    "name": { "str": "human bone" },
-    "freezing_point": -1000
-  },
-  {
     "type": "COMESTIBLE",
     "id": "fat_tainted",
     "copy-from": "fat_tainted",
