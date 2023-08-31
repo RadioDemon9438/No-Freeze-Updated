@@ -77,20 +77,6 @@
     "freezing_point": -1000
   },
   {
-    "type": "GENERIC",
-    "id": "paper",
-    "copy-from": "paper",
-    "name": "paper",
-    "freezing_point": -1000
-  },
-  {
-    "type": "GENERIC",
-    "id": "cardboard",
-    "copy-from": "cardboard",
-    "name": "cardboard",
-    "freezing_point": -1000
-  },
-  {
     "type": "COMESTIBLE",
     "id": "can_beans",
     "copy-from": "can_beans",
