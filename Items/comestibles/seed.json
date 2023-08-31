@@ -273,13 +273,6 @@
     "freezing_point": -1000
   },
   {
-    "type": "AMMO",
-    "id": "fungal_seeds",
-    "copy-from": "fungal_seeds",
-    "name": { "str": "fungal seeds", "str_pl": "fungal seeds" },
-    "freezing_point": -1000
-  },
-  {
     "type": "COMESTIBLE",
     "id": "marloss_seed",
     "copy-from": "marloss_seed",
