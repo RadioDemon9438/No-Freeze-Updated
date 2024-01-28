@@ -1,23 +1,26 @@
-[
-  {
-    "type": "COMESTIBLE",
-    "id": "slime_scrap",
-    "copy-from": "slime_scrap",
-    "name": { "str": "blob glob" },
-    "freezing_point": -1000
+[ 
+  { 
+	"type": "COMESTIBLE",
+	"id": "slime_scrap",
+	"copy-from": { "str": "slime glob" },
+	"name": "slime glob",
+	"freezing_point": -1000,
+	"comestible_type": "food"
   },
   {
     "type": "COMESTIBLE",
     "id": "honeycomb",
-    "copy-from": "honeycomb",
+    "copy-from": { "str": "honey comb" },
     "name": "honey comb",
-    "freezing_point": -1000
+    "freezing_point": -1000,
+	"comestible_type": "food"
   },
   {
     "type": "COMESTIBLE",
     "id": "wax",
     "copy-from": "wax",
     "name": { "str_pl": "waxes", "str": "wax" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -25,6 +28,7 @@
     "id": "royal_jelly",
     "copy-from": "royal_jelly",
     "name": { "str": "royal jelly", "str_pl": "royal jellies" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -32,6 +36,7 @@
     "id": "marloss_berry",
     "copy-from": "marloss_berry",
     "name": { "str": "marloss berry", "str_pl": "marloss berries" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -39,6 +44,7 @@
     "id": "marloss_gel",
     "copy-from": "marloss_gel",
     "name": { "str": "marloss gelatin", "str_pl": "marloss gelatin" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -46,6 +52,7 @@
     "id": "mycus_fruit",
     "copy-from": "mycus_fruit",
     "name": { "str": "mycus fruit" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -53,6 +60,7 @@
     "id": "yeast",
     "copy-from": "yeast",
     "name": { "str": "yeast", "str_pl": "yeast" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -60,6 +68,7 @@
     "id": "meal_bone",
     "copy-from": "meal_bone",
     "name": { "str": "bone meal", "str_pl": "bone meal" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -67,6 +76,7 @@
     "id": "meal_bone_tainted",
     "copy-from": "meal_bone_tainted",
     "name": { "str": "tainted bone meal", "str_pl": "tainted bone meal" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -74,6 +84,7 @@
     "id": "meal_chitin_piece",
     "copy-from": "meal_chitin_piece",
     "name": { "str": "chitin powder", "str_pl": "chitin powder" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -81,6 +92,7 @@
     "id": "can_beans",
     "copy-from": "can_beans",
     "name": { "str": "canned beans", "str_pl": "beans" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -88,6 +100,7 @@
     "id": "dry_beans",
     "copy-from": "dry_beans",
     "name": { "str": "dried beans", "str_pl": "dried beans" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -95,6 +108,7 @@
     "id": "beans_cooked",
     "copy-from": "beans_cooked",
     "name": { "str": "cooked beans", "str_pl": "cooked beans" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -102,6 +116,7 @@
     "id": "tofu",
     "copy-from": "tofu",
     "name": { "str": "tofu", "str_pl": "tofu" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -109,6 +124,7 @@
     "id": "tofu_fried",
     "copy-from": "tofu_fried",
     "name": { "str": "fried tofu", "str_pl": "fried tofu" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -116,6 +132,7 @@
     "id": "dry_tofu",
     "copy-from": "dry_tofu",
     "name": { "str": "dehydrated tofu", "str_pl": "dehydrated tofu" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -123,6 +140,7 @@
     "id": "soybean",
     "copy-from": "soybean",
     "name": { "str": "soybeans", "str_pl": "soybeans" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -130,6 +148,7 @@
     "id": "raw_edamame",
     "copy-from": "raw_edamame",
     "name": "raw edamame",
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -137,6 +156,7 @@
     "id": "dry_lentils",
     "copy-from": "dry_lentils",
     "name": { "str": "dried lentils", "str_pl": "dried lentils" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -144,6 +164,7 @@
     "id": "lentils_cooked",
     "copy-from": "lentils_cooked",
     "name": { "str": "cooked lentils", "str_pl": "cooked lentils" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -151,6 +172,7 @@
     "id": "coffee_raw",
     "copy-from": "coffee_raw",
     "name": { "str": "coffee powder", "str_pl": "coffee powder" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -158,6 +180,7 @@
     "id": "coffee_raw_kentucky",
     "copy-from": "coffee_raw_kentucky",
     "name": { "str": "Kentucky coffee grounds", "str_pl": "Kentucky coffee grounds" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -165,6 +188,7 @@
     "copy-from": "honey_glassed",
     "type": "COMESTIBLE",
     "name": { "str": "candied honey", "str_pl": "candied honey" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -172,6 +196,7 @@
     "id": "can_tomato",
     "copy-from": "can_tomato",
     "name": { "str": "canned tomato", "str_pl": "canned tomatoes" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -179,6 +204,7 @@
     "id": "human_brain_embalmed",
     "copy-from": "human_brain_embalmed",
     "name": { "str": "embalmed human brain", "str_pl": "embalmed human brains" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -186,6 +212,7 @@
     "copy-from": "cattlefodder",
     "type": "COMESTIBLE",
     "name": { "str": "cattle fodder", "str_pl": "cattle fodder" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -193,6 +220,7 @@
     "copy-from": "birdfood",
     "type": "COMESTIBLE",
     "name": { "str": "bird food", "str_pl": "bird food" },
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -201,6 +229,7 @@
     "type": "COMESTIBLE",
     "name": { "str": "dog food", "str_pl": "dog food" },
     "description": "This is food for dogs.  It smells strange, but dogs seem to love it.",
+	"comestible_type": "food",
     "freezing_point": -1000
   },
   {
@@ -209,6 +238,8 @@
     "type": "COMESTIBLE",
     "name": { "str": "cat food", "str_pl": "cat food" },
     "description": "This is food for cats.  It smells strange, but cats seem to love it.",
+	"comestible_type": "food",
     "freezing_point": -1000
   }
 ]
+
