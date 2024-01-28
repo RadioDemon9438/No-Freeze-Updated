@@ -57,13 +57,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "egg_cockatrice",
-    "copy-from": "egg_cockatrice",
-    "name": "cockatrice egg",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "egg_reptile",
     "copy-from": "egg_reptile",
     "name": "reptile egg",
